@@ -21,6 +21,6 @@ plt.axis("off")
 plt.show()
 ```
 
-## Output:
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Output:
 ![s7](https://user-images.githubusercontent.com/78194419/175784510-fda51d48-3873-463b-a9ce-c0fd695a41e0.jpg)
 ![s8](https://user-images.githubusercontent.com/78194419/175784513-78589379-7309-4e39-9aac-a3e1d42341d8.jpg)
